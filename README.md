@@ -6,3 +6,7 @@ This repository presents a predictive modeling project for land-cover classifica
 * Accurately identify, classify, and map agricultural areas.
 * Utilize a **Random Forest** classifier trained on **Sentinel-2** multispectral satellite imagery.
 * Combine remote sensing techniques with statistical data analysis.
+
+## 📄 Full Project Report
+For an in-depth review of the methodology, spatial analysis, and comprehensive results, please refer to the final project document:
+[👉 View Full Project Report (PDF)](./Geo_PROJ.pdf)
