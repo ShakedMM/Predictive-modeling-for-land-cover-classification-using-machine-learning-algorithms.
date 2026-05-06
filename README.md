@@ -9,4 +9,4 @@ This repository presents a predictive modeling project for land-cover classifica
 
 ## 📄 Full Project Report
 For an in-depth review of the methodology, spatial analysis, and comprehensive results, please refer to the final project document:
-[👉 View Full Project Report (PDF)](./Geo_PROJ.pdf)
+[👉 View Full Project Report (PDF)](./Geo PROJ.pdf)
