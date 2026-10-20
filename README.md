@@ -9,4 +9,4 @@ This repository presents a predictive modeling project for land-cover classifica
 
 ## 📄 Full Project Report
 For an in-depth review of the methodology, spatial analysis, and comprehensive results, please refer to the final project document:
-[👉 View Full Project Report (PDF)](./Predictive-Modeling-ML.pdf)
+[👉 View Full Project Report (PDF)](./[Predictive-Modeling-ML.pdf](https://github.com/ShakedMM/Predictive-modeling-for-land-cover-classification-using-machine-learning-algorithms./blob/main/Geoinformatics%20Proj%20.pdf))
